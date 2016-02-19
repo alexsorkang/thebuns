@@ -9,8 +9,10 @@
   text-align: center;
   display: none;
 }
-.centallign3 {
-  margin-top: 0;
-  text-align: center;
+.abouttext {
+  margin-top: 5%;
   display: none;
+}
+.backbutton {
+  text-align: right;
 }
