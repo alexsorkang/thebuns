@@ -17,3 +17,8 @@
 .backbutton {
   text-align: right;
 }
+.socialstuff {
+  margin-top: 0;
+  text-align: center;
+  display: none;
+}
